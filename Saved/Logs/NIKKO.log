@@ -1465,3 +1465,385 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.10-12.41.29:956][503]LogSavePackage: Moving '../../../../../../Users/birke/Documents/Unreal Projects/NikkoChap2/Saved/Chap2_Prototype_Auto1A4BCD8704BEBA5E69A11699BF26AFB85.tmp' to '../../../../../../Users/birke/Documents/Unreal Projects/NikkoChap2/Saved/Autosaves/Game/Gruppe2/Levels/Prototype/Chap2_Prototype_Auto1.umap'
 [2021.11.10-12.41.29:957][503]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Gruppe2/Levels/Prototype/Chap2_MotherLevel' took 0.053
 [2021.11.10-12.41.29:958][503]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2021.11.10-12.44.20:767][ 69]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Gruppe2/Materials/MI_TrashBags.MI_TrashBags
+[2021.11.10-12.44.20:772][ 69]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.10-12.45.32:257][381]LogSlate: Window 'MI_TrashBags' being destroyed
+[2021.11.10-12.45.32:261][381]LogSlate: Window 'MI_TrashBags' being destroyed
+[2021.11.10-12.45.32:265][381]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-12.45.32:265][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-12.47.41:980][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_12)
+[2021.11.10-12.47.50:060][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vcdobeadw_LOD2_Aset_street_sidewalk_S_vcdobeadw_02_LOD3)
+[2021.11.10-12.47.50:583][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_12)
+[2021.11.10-12.48.21:777][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Roof_19)
+[2021.11.10-12.48.25:378][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder32)
+[2021.11.10-12.48.29:712][361]LogEditorViewport: Clicking Background
+[2021.11.10-12.48.30:727][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_2)
+[2021.11.10-12.48.43:594][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.11.10-12.48.58:100][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.11.10-12.48.59:136][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.11.10-12.49.01:803][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.11.10-12.49.02:810][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.11.10-12.49.12:176][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2021.11.10-12.49.13:796][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2021.11.10-12.49.40:726][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2021.11.10-12.49.42:740][837]Cmd: DELETE
+[2021.11.10-12.49.42:740][837]Cmd: ACTOR DELETE
+[2021.11.10-12.49.42:744][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.49.42:744][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.49.42:753][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.11.10-12.49.42:756][837]LogEditorActor: Deleted 2 Actors (0.016 secs)
+[2021.11.10-12.49.43:446][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Garage_3)
+[2021.11.10-12.49.58:739][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Garage_3)
+[2021.11.10-12.50.03:053][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_36)
+[2021.11.10-12.50.11:959][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_36)
+[2021.11.10-12.50.16:948][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube56)
+[2021.11.10-12.50.21:713][250]Cmd: DELETE
+[2021.11.10-12.50.21:714][250]Cmd: ACTOR DELETE
+[2021.11.10-12.50.21:717][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.50.21:724][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.10-12.50.21:726][250]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.11.10-12.50.36:030][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.11.10-12.50.39:664][382]Cmd: EDIT COPY
+[2021.11.10-12.50.39:830][402]Cmd: EDIT PASTE
+[2021.11.10-12.50.48:875][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2021.11.10-12.50.54:644][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_01)
+[2021.11.10-12.50.56:504][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2021.11.10-12.50.57:477][441]LogEditorViewport: Clicking Background
+[2021.11.10-12.51.06:502][393]LogStaticMesh: Building static mesh futureslums_S_Rooftop_02...
+[2021.11.10-12.51.06:535][393]LogStaticMesh: Built static mesh [0.03s] /Game/Asset_Packs/FutureSlums/futureslums_S_Rooftop_02.futureslums_S_Rooftop_02
+[2021.11.10-12.51.06:666][402]LogActorFactory: Actor Factory created futureslums_S_Rooftop_02
+[2021.11.10-12.51.07:391][478]LogActorFactory: Actor Factory created futureslums_S_Rooftop_02
+[2021.11.10-12.51.08:751][637]Cmd: DELETE
+[2021.11.10-12.51.08:751][637]Cmd: ACTOR DELETE
+[2021.11.10-12.51.08:755][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.51.08:762][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.11.10-12.51.08:764][637]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.11.10-12.51.12:747][ 75]LogStaticMesh: Building static mesh futureslums_S_Rooftop_03...
+[2021.11.10-12.51.12:797][ 75]LogStaticMesh: Built static mesh [0.05s] /Game/Asset_Packs/FutureSlums/futureslums_S_Rooftop_03.futureslums_S_Rooftop_03
+[2021.11.10-12.51.12:854][ 79]LogActorFactory: Actor Factory created futureslums_S_Rooftop_03
+[2021.11.10-12.51.14:498][273]LogActorFactory: Actor Factory created futureslums_S_Rooftop_03
+[2021.11.10-12.51.35:296][566]LogActorFactory: Actor Factory created futureslums_S_Rooftop_02
+[2021.11.10-12.51.36:010][638]LogActorFactory: Actor Factory created futureslums_S_Rooftop_02
+[2021.11.10-12.51.54:673][734]LogStaticMesh: Building static mesh futureslums_S_Rooftop_04...
+[2021.11.10-12.51.54:704][734]LogStaticMesh: Built static mesh [0.03s] /Game/Asset_Packs/FutureSlums/futureslums_S_Rooftop_04.futureslums_S_Rooftop_04
+[2021.11.10-12.51.54:758][737]LogActorFactory: Actor Factory created futureslums_S_Rooftop_04
+[2021.11.10-12.51.55:721][845]LogActorFactory: Actor Factory created futureslums_S_Rooftop_04
+[2021.11.10-12.52.11:331][525]LogActorFactory: Actor Factory created FutureSlums_SM_HouseWallCube_01
+[2021.11.10-12.52.16:450][925]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2021.11.10-12.52.16:452][925]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2021.11.10-12.52.16:453][925]LogActorFactory: Actor Factory created FutureSlums_SM_HouseWallCube_01
+[2021.11.10-12.52.48:605][639]LogEditorViewport: Clicking Background
+[2021.11.10-12.52.52:031][998]LogActorFactory: Actor Factory created FutureSlums_SM_ConcreteBalcony_02
+[2021.11.10-12.52.54:918][342]LogActorFactory: Actor Factory created FutureSlums_SM_ConcreteBalcony_02
+[2021.11.10-12.53.18:335][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_ConcreteBalcony_02)
+[2021.11.10-12.53.25:887][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_13)
+[2021.11.10-12.53.26:874][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_ConcreteBalcony_02)
+[2021.11.10-12.53.27:579][107]Cmd: EDIT COPY
+[2021.11.10-12.53.27:787][126]Cmd: EDIT PASTE
+[2021.11.10-12.53.31:340][531]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FutureSlums_SM_ConcreteBalcony_3)
+[2021.11.10-12.53.33:643][730]Cmd: ACTOR MIRROR X=-1
+[2021.11.10-12.53.39:916][429]Cmd: EDIT COPY
+[2021.11.10-12.53.40:078][448]Cmd: EDIT PASTE
+[2021.11.10-12.53.41:584][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.11.10-12.53.42:407][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_ConcreteBalcony_4)
+[2021.11.10-12.53.43:028][790]Cmd: DELETE
+[2021.11.10-12.53.43:028][790]Cmd: ACTOR DELETE
+[2021.11.10-12.53.43:031][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.53.43:040][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.11.10-12.53.43:041][790]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.11.10-12.53.43:600][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_14)
+[2021.11.10-12.53.51:372][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_ConcreteBalcony_3)
+[2021.11.10-12.53.52:000][821]Cmd: DELETE
+[2021.11.10-12.53.52:000][821]Cmd: ACTOR DELETE
+[2021.11.10-12.53.52:003][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.53.52:009][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.10-12.53.52:010][821]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.11.10-12.53.52:417][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_14)
+[2021.11.10-12.54.07:374][597]LogEditorViewport: Clicking Background
+[2021.11.10-12.54.11:788][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_14)
+[2021.11.10-12.54.13:064][229]Cmd: EDIT COPY
+[2021.11.10-12.54.13:256][252]Cmd: EDIT PASTE
+[2021.11.10-12.54.19:222][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_ConcreteBalcony_02)
+[2021.11.10-12.54.23:961][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_14)
+[2021.11.10-12.54.25:825][678]Cmd: EDIT COPY
+[2021.11.10-12.54.25:992][698]Cmd: EDIT PASTE
+[2021.11.10-12.54.45:534][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_14)
+[2021.11.10-12.54.51:169][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_15)
+[2021.11.10-12.55.03:927][802]LogActorFactory: Actor Factory created futureslums_S_Facade_14
+[2021.11.10-12.55.05:398][966]LogActorFactory: Actor Factory created futureslums_S_Facade_14
+[2021.11.10-12.55.27:670][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_16)
+[2021.11.10-12.55.44:021][465]LogEditorViewport: Clicking Background
+[2021.11.10-12.56.04:271][834]LogActorFactory: Actor Factory created futureslums_S_Scaffolding_01
+[2021.11.10-12.56.05:696][999]LogActorFactory: Actor Factory created futureslums_S_Scaffolding_01
+[2021.11.10-12.56.21:255][816]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (futureslums_S_Scaffolding_2)
+[2021.11.10-12.56.23:766][ 47]Cmd: ACTOR MIRROR X=-1
+[2021.11.10-12.56.41:824][ 93]LogEditorViewport: Clicking Background
+[2021.11.10-12.56.54:425][354]LogStaticMesh: Building static mesh futureslumskitbash_2_SM_PlasticBox_01...
+[2021.11.10-12.56.54:454][354]LogStaticMesh: Built static mesh [0.03s] /Game/Asset_Packs/FutureSlums/futureslumskitbash_2_SM_PlasticBox_01.futureslumskitbash_2_SM_PlasticBox_01
+[2021.11.10-12.56.54:651][360]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_PlasticBox_01
+[2021.11.10-12.56.55:492][449]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_PlasticBox_01
+[2021.11.10-12.56.56:971][622]Cmd: DELETE
+[2021.11.10-12.56.56:971][622]Cmd: ACTOR DELETE
+[2021.11.10-12.56.56:974][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.56.56:981][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.11.10-12.56.56:983][622]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.11.10-12.57.02:013][179]LogStaticMesh: Building static mesh futureslumskitbash_2_SM_FireEscape_02...
+[2021.11.10-12.57.02:050][179]LogStaticMesh: Built static mesh [0.04s] /Game/Asset_Packs/FutureSlums/futureslumskitbash_2_SM_FireEscape_02.futureslumskitbash_2_SM_FireEscape_02
+[2021.11.10-12.57.02:135][186]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_02
+[2021.11.10-12.57.04:679][480]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_02
+[2021.11.10-12.57.06:319][654]Cmd: DELETE
+[2021.11.10-12.57.06:320][654]Cmd: ACTOR DELETE
+[2021.11.10-12.57.06:322][654]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.57.06:329][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.11.10-12.57.06:331][654]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.11.10-12.57.33:673][910]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_02
+[2021.11.10-12.57.34:531][  6]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_02
+[2021.11.10-12.57.44:812][196]Cmd: DELETE
+[2021.11.10-12.57.44:812][196]Cmd: ACTOR DELETE
+[2021.11.10-12.57.44:815][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.57.44:822][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.11.10-12.57.44:823][196]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.11.10-12.57.56:528][582]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_02
+[2021.11.10-12.57.58:736][835]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_02
+[2021.11.10-12.58.08:877][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2021.11.10-12.58.09:489][ 43]Cmd: EDIT COPY
+[2021.11.10-12.58.09:672][ 65]Cmd: EDIT PASTE
+[2021.11.10-12.58.31:114][531]LogStaticMesh: Building static mesh futureslumskitbash_2_SM_FireEscape_01...
+[2021.11.10-12.58.31:174][531]LogStaticMesh: Built static mesh [0.06s] /Game/Asset_Packs/FutureSlums/futureslumskitbash_2_SM_FireEscape_01.futureslumskitbash_2_SM_FireEscape_01
+[2021.11.10-12.58.31:264][536]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_01
+[2021.11.10-12.58.32:694][679]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_01
+[2021.11.10-12.58.34:824][915]Cmd: DELETE
+[2021.11.10-12.58.34:824][915]Cmd: ACTOR DELETE
+[2021.11.10-12.58.34:827][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.58.34:834][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.10-12.58.34:835][915]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.11.10-12.58.45:241][124]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_01
+[2021.11.10-12.58.47:870][432]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_01
+[2021.11.10-12.59.07:280][638]Cmd: DELETE
+[2021.11.10-12.59.07:280][638]Cmd: ACTOR DELETE
+[2021.11.10-12.59.07:283][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-12.59.07:290][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.11.10-12.59.07:291][638]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.11.10-12.59.21:698][295]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_01
+[2021.11.10-12.59.23:960][401]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2021.11.10-12.59.23:964][401]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2021.11.10-12.59.23:964][401]LogActorFactory: Actor Factory created futureslumskitbash_2_SM_FireEscape_01
+[2021.11.10-13.00.01:974][808]Cmd: TRANSACTION UNDO
+[2021.11.10-13.00.01:974][808]LogEditorTransaction: Undo Move Actors
+[2021.11.10-13.00.14:704][ 25]LogStaticMesh: Building static mesh futureslums_S_BalconyFence_03...
+[2021.11.10-13.00.14:798][ 25]LogStaticMesh: Built static mesh [0.09s] /Game/Asset_Packs/FutureSlums/futureslums_S_BalconyFence_03.futureslums_S_BalconyFence_03
+[2021.11.10-13.00.14:817][ 25]LogActorFactory: Actor Factory created futureslums_S_BalconyFence_03
+[2021.11.10-13.00.16:668][228]LogActorFactory: Actor Factory created futureslums_S_BalconyFence_03
+[2021.11.10-13.00.17:240][293]Cmd: DELETE
+[2021.11.10-13.00.17:240][293]Cmd: ACTOR DELETE
+[2021.11.10-13.00.17:243][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.00.17:250][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.11.10-13.00.17:251][293]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.11.10-13.00.18:045][377]LogActorFactory: Actor Factory created futureslums_S_BalconyFence_05
+[2021.11.10-13.00.19:875][593]LogActorFactory: Actor Factory created futureslums_S_BalconyFence_05
+[2021.11.10-13.00.19:961][600]Cmd: DELETE
+[2021.11.10-13.00.19:961][600]Cmd: ACTOR DELETE
+[2021.11.10-13.00.19:964][600]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.00.19:971][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.10-13.00.19:972][600]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.11.10-13.00.21:254][721]LogActorFactory: Actor Factory created futureslums_S_BalconyFence_01
+[2021.11.10-13.00.23:243][952]LogActorFactory: Actor Factory created futureslums_S_BalconyFence_01
+[2021.11.10-13.00.23:982][ 29]Cmd: DELETE
+[2021.11.10-13.00.23:983][ 29]Cmd: ACTOR DELETE
+[2021.11.10-13.00.23:985][ 29]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.00.23:997][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.11.10-13.00.23:998][ 29]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.11.10-13.00.27:116][274]LogActorFactory: Actor Factory created futureslums_S_BalconyFence_03
+[2021.11.10-13.00.28:730][460]LogActorFactory: Actor Factory created futureslums_S_BalconyFence_03
+[2021.11.10-13.00.32:380][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslumskitbash_2_SM_FireEscape_01)
+[2021.11.10-13.00.33:104][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_BalconyFence_03)
+[2021.11.10-13.00.41:983][961]Cmd: TRANSACTION UNDO
+[2021.11.10-13.00.41:983][961]LogEditorTransaction: Undo Scale Actors
+[2021.11.10-13.01.02:132][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_4)
+[2021.11.10-13.01.04:867][568]Cmd: EDIT COPY
+[2021.11.10-13.01.05:037][586]Cmd: EDIT PASTE
+[2021.11.10-13.01.25:874][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_18)
+[2021.11.10-13.01.26:352][ 10]LogEditorViewport: Clicking Background
+[2021.11.10-13.01.27:040][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslumskitbash_2_SM_FireEscape_01)
+[2021.11.10-13.01.28:188][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_BalconyFence_03)
+[2021.11.10-13.02.12:708][476]LogActorFactory: Actor Factory created futureslums_S_Facade_03
+[2021.11.10-13.02.13:998][611]LogActorFactory: Actor Factory created futureslums_S_Facade_03
+[2021.11.10-13.02.42:227][825]LogActorFactory: Actor Factory created futureslums_S_Facade_07
+[2021.11.10-13.02.42:839][881]LogActorFactory: Actor Factory created futureslums_S_Facade_07
+[2021.11.10-13.02.56:286][452]Cmd: EDIT COPY
+[2021.11.10-13.02.56:436][470]Cmd: EDIT PASTE
+[2021.11.10-13.03.17:071][821]LogActorFactory: Actor Factory created FutureSlums_SM_ConcreteBalcony_01
+[2021.11.10-13.03.18:741][ 14]LogActorFactory: Actor Factory created FutureSlums_SM_ConcreteBalcony_01
+[2021.11.10-13.03.48:521][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_21)
+[2021.11.10-13.03.49:658][542]Cmd: EDIT COPY
+[2021.11.10-13.03.49:809][560]Cmd: EDIT PASTE
+[2021.11.10-13.03.52:873][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_ConcreteBalcony_2)
+[2021.11.10-13.03.53:939][ 26]Cmd: EDIT COPY
+[2021.11.10-13.03.54:119][ 41]Cmd: EDIT PASTE
+[2021.11.10-13.04.02:631][ 21]Cmd: DELETE
+[2021.11.10-13.04.02:631][ 21]Cmd: ACTOR DELETE
+[2021.11.10-13.04.02:634][ 21]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.04.02:641][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.11.10-13.04.02:642][ 21]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.11.10-13.04.09:668][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_ConcreteBalcony_2)
+[2021.11.10-13.04.10:585][960]Cmd: EDIT COPY
+[2021.11.10-13.04.10:746][979]Cmd: EDIT PASTE
+[2021.11.10-13.04.15:853][570]Cmd: EDIT COPY
+[2021.11.10-13.04.16:023][590]Cmd: EDIT PASTE
+[2021.11.10-13.04.19:753][  2]LogEditorViewport: Clicking Background
+[2021.11.10-13.04.30:277][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_03)
+[2021.11.10-13.04.33:621][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_13)
+[2021.11.10-13.04.34:474][708]Cmd: EDIT COPY
+[2021.11.10-13.04.34:677][732]Cmd: EDIT PASTE
+[2021.11.10-13.04.43:129][642]LogActorFactory: Actor Factory created futureslums_S_Window_09
+[2021.11.10-13.04.44:329][776]LogActorFactory: Actor Factory created futureslums_S_Window_09
+[2021.11.10-13.05.08:724][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Window_18)
+[2021.11.10-13.05.14:903][305]Cmd: EDIT COPY
+[2021.11.10-13.05.15:075][319]Cmd: EDIT PASTE
+[2021.11.10-13.05.18:593][724]Cmd: TRANSACTION UNDO
+[2021.11.10-13.05.18:593][724]LogEditorTransaction: Undo Scale Actors
+[2021.11.10-13.05.23:939][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Window_19)
+[2021.11.10-13.05.28:949][842]Cmd: EDIT COPY
+[2021.11.10-13.05.29:111][861]Cmd: EDIT PASTE
+[2021.11.10-13.05.38:570][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_13)
+[2021.11.10-13.05.39:092][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Window_19)
+[2021.11.10-13.05.46:174][806]Cmd: TRANSACTION UNDO
+[2021.11.10-13.05.46:174][806]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.10-13.05.46:609][818]Cmd: TRANSACTION UNDO
+[2021.11.10-13.05.46:609][818]LogEditorTransaction: Undo Move Actors
+[2021.11.10-13.05.48:565][ 27]Cmd: EDIT COPY
+[2021.11.10-13.05.48:747][ 48]Cmd: EDIT PASTE
+[2021.11.10-13.05.50:888][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder18)
+[2021.11.10-13.05.52:717][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Window_24)
+[2021.11.10-13.05.57:642][ 53]LogEditorViewport: Clicking Background
+[2021.11.10-13.06.13:998][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_14)
+[2021.11.10-13.06.20:766][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_16)
+[2021.11.10-13.06.21:352][820]Cmd: POLY SELECT MEMORY UNION
+[2021.11.10-13.06.31:980][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_13)
+[2021.11.10-13.06.32:857][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_13)
+[2021.11.10-13.06.37:454][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FutureSlums_SM_HouseWallCube_15)
+[2021.11.10-13.06.38:868][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2021.11.10-13.07.18:793][250]Cmd: DELETE
+[2021.11.10-13.07.18:793][250]Cmd: ACTOR DELETE
+[2021.11.10-13.07.18:802][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:803][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:803][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:803][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:803][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:803][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:804][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:804][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:804][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:804][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:804][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:804][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:804][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:805][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:805][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:805][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:805][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:805][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:805][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:806][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:806][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:806][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:806][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:806][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:806][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:806][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:807][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:807][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:807][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:807][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:807][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:807][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.18:827][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.11.10-13.07.18:828][250]LogEditorActor: Deleted 32 Actors (0.035 secs)
+[2021.11.10-13.07.32:381][803]LogActorFactory: Actor Factory created Sphere
+[2021.11.10-13.07.33:300][901]LogActorFactory: Actor Factory created Sphere
+[2021.11.10-13.07.33:589][932]Cmd: TRANSACTION UNDO
+[2021.11.10-13.07.33:589][932]LogEditorTransaction: Undo Create Actors
+[2021.11.10-13.07.33:798][938]Cmd: TRANSACTION UNDO
+[2021.11.10-13.07.33:798][938]LogEditorTransaction: Undo Delete Actors
+[2021.11.10-13.07.45:150][189]Cmd: DELETE
+[2021.11.10-13.07.45:150][189]Cmd: ACTOR DELETE
+[2021.11.10-13.07.45:160][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:161][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:161][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:161][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:161][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:161][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:161][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:161][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:162][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:162][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:162][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:162][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:162][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:162][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:163][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:163][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:163][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:163][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:163][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:163][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:163][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:164][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:164][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:164][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:164][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:164][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:164][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:164][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:165][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:165][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:165][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.07.45:171][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.11.10-13.07.45:172][189]LogEditorActor: Deleted 31 Actors (0.022 secs)
+[2021.11.10-13.07.51:940][980]Cmd: EDIT COPY
+[2021.11.10-13.07.52:111][998]Cmd: EDIT PASTE
+[2021.11.10-13.08.00:246][924]Cmd: EDIT COPY
+[2021.11.10-13.08.00:259][924]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.08.00:266][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.10-13.08.00:267][924]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.11.10-13.08.00:280][924]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.08.00:286][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.11.10-13.08.00:287][924]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.11.10-13.08.00:400][937]Cmd: EDIT PASTE
+[2021.11.10-13.08.11:899][244]Cmd: POLY SELECT ALL
+[2021.11.10-13.08.13:508][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.11.10-13.08.16:281][733]Cmd: EDIT COPY
+[2021.11.10-13.08.16:294][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.08.16:301][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.11.10-13.08.16:302][733]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.11.10-13.08.16:314][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.08.16:314][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.08.16:314][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-13.08.16:320][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.10-13.08.16:321][733]LogEditorActor: Deleted 3 Actors (0.007 secs)
+[2021.11.10-13.08.16:436][746]Cmd: EDIT PASTE
+[2021.11.10-13.08.20:410][215]Cmd: EDIT COPY
+[2021.11.10-13.08.20:561][227]Cmd: EDIT PASTE
+[2021.11.10-13.08.26:109][863]Cmd: EDIT COPY
+[2021.11.10-13.08.26:271][876]Cmd: EDIT PASTE
+[2021.11.10-13.08.37:238][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2021.11.10-13.08.37:701][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder7)
+[2021.11.10-13.08.40:168][420]Cmd: EDIT COPY
+[2021.11.10-13.08.40:579][462]Cmd: EDIT PASTE
+[2021.11.10-13.08.46:633][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder17)
+[2021.11.10-13.08.47:383][267]Cmd: EDIT COPY
+[2021.11.10-13.08.47:553][287]Cmd: EDIT PASTE
+[2021.11.10-13.08.55:063][136]Cmd: EDIT COPY
+[2021.11.10-13.08.55:254][151]Cmd: EDIT PASTE
+[2021.11.10-13.09.03:086][ 36]Cmd: EDIT COPY
+[2021.11.10-13.09.03:330][ 62]Cmd: EDIT PASTE
+[2021.11.10-13.09.25:866][652]Cmd: EDIT COPY
+[2021.11.10-13.09.26:037][672]Cmd: EDIT PASTE
+[2021.11.10-13.09.47:530][ 72]Cmd: TRANSACTION UNDO
+[2021.11.10-13.09.47:530][ 72]LogEditorTransaction: Undo Move Actors
+[2021.11.10-13.09.48:303][100]LogEditorViewport: Clicking Background
+[2021.11.10-13.09.53:347][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vcdobeadw_LOD2_Aset_street_sidewalk_S_vcdobeadw_02_LOD2)
+[2021.11.10-13.10.18:717][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.10-13.10.18:732][677]LogSavePackage: Moving '../../../../../../Users/birke/Documents/Unreal Projects/NikkoChap2/Saved/Chap2_MotherLevel619C79DA4D8C716F1E76C7BB4592393C.tmp' to '../../../../../../Users/birke/Documents/Unreal Projects/NikkoChap2/Content/Gruppe2/Levels/Prototype/Chap2_MotherLevel.umap'
+[2021.11.10-13.10.18:750][677]AssetCheck: New page: Asset Save: Chap2_MotherLevel
+[2021.11.10-13.10.18:750][677]LogContentValidation: Display: Validating World /Game/Gruppe2/Levels/Prototype/Chap2_MotherLevel.Chap2_MotherLevel
