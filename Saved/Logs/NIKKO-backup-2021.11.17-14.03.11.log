@@ -1,0 +1,1298 @@
+﻿Log file open, 11/17/21 14:44:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NIKKO
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.235984
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Engine.ini]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[r.EarlyZPass:2]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Engine.ini]
+[2021.11.17-13.44.24:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Engine.ini]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Engine.ini]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.17-13.44.24:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Engine.ini]
+[2021.11.17-13.44.24:622][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Engine.ini]
+[2021.11.17-13.44.24:633][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.17-13.44.24:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.17-13.44.24:634][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.17-13.44.24:634][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.17-13.44.24:634][  0]LogHAL: Display: Platform has ~ 32 GB [34188873728 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.17-13.44.24:634][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.17-13.44.24:634][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.17-13.44.24:634][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Scalability.ini]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.17-13.44.24:635][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.17-13.44.24:636][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.17-13.44.24:636][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.17-13.44.24:636][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.17-13.44.24:636][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Engine.ini]
+[2021.11.17-13.44.24:636][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Config/Windows/Editor.ini]
+[2021.11.17-13.44.24:636][  0]LogInit: Computer: LAPTOP-EABS3M3N
+[2021.11.17-13.44.24:636][  0]LogInit: User: Simen
+[2021.11.17-13.44.24:636][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.11.17-13.44.24:636][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.17-13.44.24:636][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2021.11.17-13.44.24:636][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.17-13.44.24:636][  0]LogMemory: Process Physical Memory: 143.81 MB used, 143.82 MB peak
+[2021.11.17-13.44.24:636][  0]LogMemory: Process Virtual Memory: 129.79 MB used, 129.79 MB peak
+[2021.11.17-13.44.24:636][  0]LogMemory: Physical Memory: 13971.16 MB used,  18633.89 MB free, 32605.05 MB total
+[2021.11.17-13.44.24:636][  0]LogMemory: Virtual Memory: 134196200.00 MB used,  21524.90 MB free, 134217728.00 MB total
+[2021.11.17-13.44.24:643][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.17-13.44.24:685][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.17-13.44.24:686][  0]LogInit: Using OS detected language (nb-NO).
+[2021.11.17-13.44.24:686][  0]LogInit: Using OS detected locale (nb-NO).
+[2021.11.17-13.44.24:690][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
+[2021.11.17-13.44.24:865][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.17-13.44.24:879][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.17-13.44.24:894][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.17-13.44.24:894][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.17-13.44.25:033][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.17-13.44.25:076][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.17-13.44.25:076][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.17-13.44.25:076][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.17-13.44.25:076][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.17-13.44.25:169][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.11.17-13.44.25:169][  0]LogD3D11RHI:       5980/0/16302 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.17-13.44.25:194][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.11.17-13.44.25:194][  0]LogD3D11RHI:       128/0/16302 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.11.17-13.44.25:196][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.17-13.44.25:196][  0]LogD3D11RHI:       0/0/16302 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.17-13.44.25:196][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.17-13.44.25:202][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.17-13.44.25:202][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.17-13.44.25:202][  0]LogWindows: EnumDisplayDevices:
+[2021.11.17-13.44.25:203][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.11.17-13.44.25:203][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.11.17-13.44.25:203][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.11.17-13.44.25:203][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.17-13.44.25:204][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.17-13.44.25:204][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.17-13.44.25:204][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.17-13.44.25:204][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.17-13.44.25:204][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.11.17-13.44.25:204][  0]LogD3D11RHI:   Driver Version: 466.77 (internal:27.21.14.6677, unified:466.77)
+[2021.11.17-13.44.25:204][  0]LogD3D11RHI:      Driver Date: 6-8-2021
+[2021.11.17-13.44.25:204][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.11.17-13.44.25:281][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.17-13.44.25:281][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.17-13.44.25:281][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.17-13.44.25:305][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.17-13.44.25:345][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.17-13.44.25:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.17-13.44.25:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.17-13.44.25:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.17-13.44.25:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.17-13.44.25:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.17-13.44.25:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.17-13.44.25:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.17-13.44.25:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.17-13.44.25:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.17-13.44.25:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.17-13.44.25:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.17-13.44.25:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.17-13.44.25:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.17-13.44.25:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.17-13.44.25:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.17-13.44.25:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.17-13.44.25:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.17-13.44.25:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.17-13.44.25:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.17-13.44.25:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.17-13.44.25:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.17-13.44.25:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.17-13.44.25:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.17-13.44.25:816][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.17-13.44.25:823][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.17-13.44.25:856][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.17-13.44.25:887][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.17-13.44.25:887][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Intermediate/Shaders/WorkingDirectory/7668/).
+[2021.11.17-13.44.25:887][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Simen/AppData/Local/Temp/UnrealShaderWorkingDir/EA8D5D234007861B984272A8A0D9CA8A/'.
+[2021.11.17-13.44.25:887][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.17-13.44.25:887][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.17-13.44.25:887][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.17-13.44.26:610][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.17-13.44.26:672][  0]LogDerivedDataCache: Loaded boot cache 0.06s 111MB C:/Users/Simen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.17-13.44.26:672][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Simen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.17-13.44.26:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.17-13.44.26:672][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.17-13.44.26:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.17-13.44.26:672][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.17-13.44.26:687][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.17-13.44.26:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.17-13.44.26:687][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.17-13.44.26:701][  0]LogDerivedDataCache: Speed tests for C:/Users/Simen/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.17-13.44.26:701][  0]LogDerivedDataCache: Display: Performance to C:/Users/Simen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=240.48MBs, RandomWriteSpeed=99.90MBs. Assigned SpeedClass 'Local'
+[2021.11.17-13.44.26:702][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Simen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.17-13.44.26:702][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.17-13.44.26:702][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.17-13.44.26:745][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.17-13.44.26:746][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.17-13.44.26:770][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.11.17-13.44.26:993][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.17-13.44.26:993][  0]LogInit: Active device profile: [00000236E45BA100][00000236E33F8A40 49] Windows
+[2021.11.17-13.44.26:993][  0]LogInit: Profiles: [00000236E45BA100][00000236E33F8A40 49] Windows, [00000236E4505E00][00000236E3400B80 49] WindowsNoEditor, [00000236E45BA200][00000236E3404CC0 49] WindowsServer, [00000236E4505F00][00000236E366CE40 49] WindowsClient, [00000236E45B9D00][00000236E3696FC0 49] IOS, [00000236E4507D00][00000236E36A3140 49] iPadAir, [00000236E45B9A00][00000236E4A312C0 49] iPadAir2, [00000236E43E9B00][00000236E4B85580 49] IPadPro, [00000236E43E9C00][00000236E4B815C0 49] iPadAir3, [00000236E45B9E00][00000236E4B89740 49] iPadAir4, [00000236E43EBC00][00000236E369B8C0 49] iPadMini2, [00000236E45B8300][00000236E4BADA40 49] iPadMini3, [00000236E43E8800][00000236E1173BC0 49] iPadMini4, [00000236E45B9400][00000236E11761C0 49] iPadMini5, [00000236E4439300][00000236E11AE480 49] iPhone6, [00000236E4439400][00000236E117A4C0 49] iPodTouch6, [00000236E4506100][00000236E35F4780 49] iPhone7, [00000236E4504200][00000236E35F07C0 49] iPodTouch7, [00000236E443B500][00000236E3634940 49] iPhone5S, [00000236E4505600][00000236E3638AC0 49] iPhone6Plus, [00000236E4438600][00000236E3408C00 49] iPhone6S, [00000236E4506700][00000236E3640D40 49] iPhone6SPlus, [00000236E443A300][00000236E4D9AE80 49] iPhone7Plus, [00000236E4504C00][00000236E4DA8FC0 49] iPhoneSE, [00000236E443BD00][00000236E4ECB140 49] iPhone8, [00000236E4507000][00000236E4ECF2C0 49] iPhone8Plus, [00000236E4438500][00000236E4ED3440 49] iPhoneX, [00000236E4506300][00000236E4F535C0 49] iPhoneXS, [00000236E443B100][00000236E4F79740 49] iPhoneXSMax, [00000236E4504B00][00000236E4F9F8C0 49] iPhoneXR, [00000236E443AB00][00000236E4FA3A40 49] iPhone11, [00000236E4507B00][00000236E5163BC0 49] iPhone11Pro, [00000236E443A100][00000236E51B01C0 49] iPhone11ProMax, [00000236E4507E00][00000236E5230340 49] iPhoneSE2, [00000236E443B000][00000236E53544C0 49] iPhone12Mini, [00000236E4506F00][00000236E53C0640 49] iPhone12, [00000236E4438C00][00000236E54B27C0 49] iPhone12Pro, [00000236E4507400][00000236E54D6940 49] iPhone12ProMax, [00000236E443AA00][00000236E54DAAC0 49] iPadPro105, [00000236E4507100][00000236E5662C40 49] iPadPro129, [00000236E443A500][00000236E4EC6D80 49] iPadPro97, [00000236E4506A00][00000236E56EAEC0 49] iPadPro2_129, [00000236E443AE00][00000236E5755000 49] iPad5, [00000236E4504400][00000236E5775140 49] iPad6, [00000236E43EA200][00000236E577D2C0 49] iPad7, [00000236E37D0E00][00000236E5781440 49] iPad8, [00000236E43E8700][00000236E57855C0 49] iPadPro11, [00000236E443B800][00000236E5789740 49] iPadPro2_11, [00000236E43E9200][00000236E578D8C0 49] iPadPro3_129, [00000236E443AC00][00000236E5791A40 49] iPadPro4_129, [00000236E43EBD00][00000236E5795BC0 49] AppleTV, [00000236E4438700][00000236E579E1C0 49] AppleTV4K, [00000236E43E9E00][00000236E57D0340 49] TVOS, [00000236E4439A00][00000236E57D44C0 49] Mac, [00000236E43EAE00][00000236E57D8640 49] MacClient, [00000236E4505200][00000236E57DC7C0 49] MacNoEditor, [00000236E43EA800][00000236E35AA940 49] MacServer, [00000236E4507A00][00000236E35BAAC0 49] Linux, [00000236E43EAD00][00000236E35BEC40 49] LinuxAArch64, [00000236E4505D00][00000236E35C2DC0 49] LinuxNoEditor, [00000236E43E9F00][00000236E35C6F40 49] LinuxAArch64NoEditor, [00000236E4506D00][00000236E5779080 49] LinuxClient, [00000236E43E8C00][00000236E35CB1C0 49] LinuxAArch64Client, [00000236E4504F00][00000236E35CF300 49] LinuxServer, [00000236E43E9A00][00000236E35DD480 49] LinuxAArch64Server, [00000236E4504300][00000236E35E1600 49] Android, [00000236E43EBB00][00000236E35E5780 49] Android_Low, [00000236E4506C00][00000236E35E9900 49] Android_Mid, [00000236E43EBF00][00000236E3773A80 49] Android_High, [00000236E4507C00][00000236E3777C00 49] Android_Default, [00000236E43E8400][00000236E377A200 49] Android_Adreno4xx, [00000236E4505800][00000236E377E380 49] Android_Adreno5xx_Low, [00000236E43E8E00][00000236E3782500 49] Android_Adreno5xx, [00000236E4507300][00000236E363C680 49] Android_Adreno6xx, [00000236E43EB600][00000236E35EC800 49] Android_Adreno6xx_Vulkan, [00000236E4504900][00000236E3786980 49] Android_Mali_T6xx, [00000236E43EB700][00000236E4ED6B00 49] Android_Mali_T7xx, [00000236E4507200][00000236E4F22C80 49] Android_Mali_T8xx, [00000236E43E9000][00000236E4F26E00 49] Android_Mali_G71, [00000236E4507700][00000236E4F42F80 49] Android_Mali_G72, [00000236E43E9800][00000236E4803100 49] Android_Mali_G72_Vulkan, [00000236E4507F00][00000236E35D9240 49] Android_Mali_G76, [00000236E43EAA00][00000236E4807380 49] Android_Mali_G76_Vulkan, [00000236E4507800][00000236E480B4C0 49] Android_Mali_G77, [00000236E43E9600][00000236E4813640 49] Android_Mali_G77_Vulkan, [00000236E4507500][00000236E48177C0 49] Android_Mali_G78, [00000236E43EA400][00000236E481B940 49] Android_Mali_G78_Vulkan, [00000236E4507900][00000236E35F9AC0 49] Android_Mali_G710, [00000236E43E8200][00000236E54BC0C0 49] Android_Mali_G710_Vulkan, [00000236E4505900][00000236E54AE240 49] Android_Vulkan_SM5, [00000236E43EA000][00000236E53CC3C0 49] Android_PowerVR_G6xxx, [00000236E4505700][00000236E519A540 49] Android_PowerVR_GT7xxx, [00000236E43E8300][00000236E51966C0 49] Android_PowerVR_GE8xxx, [00000236E4504100][00000236E5192840 49] Android_PowerVR_GM9xxx, [00000236E45B9200][00000236E518E9C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000236E443A800][00000236E518AB40 49] Android_TegraK1, [00000236E45B9700][00000236E5186CC0 49] Android_Unknown_Vulkan, [00000236E443A000][00000236E5182E40 49] Lumin, [00000236E45B8900][00000236E517EFC0 49] Lumin_Desktop, [00000236E4438400][00000236E517B140 49] HoloLens, 
+[2021.11.17-13.44.27:110][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.17-13.44.27:110][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.17-13.44.27:110][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.17-13.44.27:110][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.17-13.44.27:110][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.17-13.44.27:124][  0]LogNetVersion: NIKKO 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3895836785)
+[2021.11.17-13.44.27:489][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.17-13.44.27:540][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.17-13.44.27:545][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.11.17-13.44.27:545][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.11.17-13.44.27:545][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.17-13.44.27:771][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 66415E5643A9C5685ECF0485F216298F | Instance: 4F5D81F7449D4FEE742F25B3C878474A (LAPTOP-EABS3M3N-7668).
+[2021.11.17-13.44.27:788][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.17-13.44.27:788][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.17-13.44.27:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.17-13.44.27:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.17-13.44.27:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.17-13.44.27:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.17-13.44.27:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.17-13.44.27:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.17-13.44.27:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.17-13.44.27:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.17-13.44.27:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.17-13.44.27:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.17-13.44.27:810][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.17-13.44.27:810][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.17-13.44.27:810][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.17-13.44.27:810][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.17-13.44.27:810][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.17-13.44.27:810][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.17-13.44.27:810][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.17-13.44.27:815][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.17-13.44.27:956][  0]LogPython: Using Python 3.7.7
+[2021.11.17-13.44.28:590][  0]SourceControl: Source control is disabled
+[2021.11.17-13.44.28:590][  0]SourceControl: Source control is disabled
+[2021.11.17-13.44.28:593][  0]SourceControl: Source control is disabled
+[2021.11.17-13.44.28:602][  0]SourceControl: Source control is disabled
+[2021.11.17-13.44.28:605][  0]SourceControl: Source control is disabled
+[2021.11.17-13.44.28:611][  0]LogUProjectInfo: Found projects:
+[2021.11.17-13.44.28:620][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.11.17-13.44.28:780][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.17-13.44.28:797][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.17-13.44.28:797][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.17-13.44.29:071][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.17-13.44.29:088][  0]LogOcInput: OculusInput pre-init called
+[2021.11.17-13.44.29:258][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.17-13.44.29:258][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.17-13.44.29:258][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.17-13.44.29:258][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.17-13.44.29:258][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.17-13.44.29:258][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.17-13.44.29:258][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.17-13.44.29:259][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.17-13.44.29:259][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.17-13.44.29:259][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.17-13.44.29:259][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.17-13.44.29:259][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.17-13.44.29:259][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.17-13.44.29:259][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.17-13.44.29:259][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.17-13.44.29:259][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.17-13.44.29:259][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.17-13.44.29:259][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.17-13.44.29:292][  0]LogCollectionManager: Loaded 0 collections in 0.001640 seconds
+[2021.11.17-13.44.29:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Collections/' took 0.00s
+[2021.11.17-13.44.29:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/Developers/Simen/Collections/' took 0.00s
+[2021.11.17-13.44.29:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/Collections/' took 0.00s
+[2021.11.17-13.44.29:349][  0]LogEngine: Initializing Engine...
+[2021.11.17-13.44.29:351][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.17-13.44.29:351][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.17-13.44.29:351][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.17-13.44.29:352][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.17-13.44.29:459][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.17-13.44.29:467][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.17-13.44.29:478][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.17-13.44.29:482][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.17-13.44.29:482][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.17-13.44.29:483][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.17-13.44.29:483][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.17-13.44.29:483][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.17-13.44.29:483][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.17-13.44.29:483][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.17-13.44.29:483][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.17-13.44.29:483][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.17-13.44.29:483][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.17-13.44.29:483][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.17-13.44.29:483][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.17-13.44.29:483][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.17-13.44.29:483][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.17-13.44.29:483][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.17-13.44.29:483][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.17-13.44.29:496][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.17-13.44.29:496][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.17-13.44.29:517][  0]LogAudioMixer: Display: Using Audio Device Hodetelefoner (Simens AirPods Pro Stereo)
+[2021.11.17-13.44.29:518][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.17-13.44.29:521][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.17-13.44.29:521][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.17-13.44.29:522][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.17-13.44.29:522][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.17-13.44.29:522][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.17-13.44.29:523][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.17-13.44.29:523][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.17-13.44.29:523][  0]LogInit: FAudioDevice initialized.
+[2021.11.17-13.44.29:523][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.17-13.44.29:523][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.17-13.44.29:574][  0]LogDerivedDataCache: Saved boot cache 0.05s 111MB C:/Users/Simen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.17-13.44.29:575][  0]LogInit: Texture streaming: Enabled
+[2021.11.17-13.44.29:587][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.11.17-13.44.29:590][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.17-13.44.29:590][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.17-13.44.29:592][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.17-13.44.29:641][  0]LogInit: Transaction tracking system initialized
+[2021.11.17-13.44.29:662][  0]BlueprintLog: New page: Editor Load
+[2021.11.17-13.44.29:718][  0]LocalizationService: Localization service is disabled
+[2021.11.17-13.44.29:741][  0]TimingProfiler: Initialize
+[2021.11.17-13.44.29:741][  0]TimingProfiler: OnSessionChanged
+[2021.11.17-13.44.29:741][  0]LoadingProfiler: Initialize
+[2021.11.17-13.44.29:741][  0]LoadingProfiler: OnSessionChanged
+[2021.11.17-13.44.29:741][  0]NetworkingProfiler: Initialize
+[2021.11.17-13.44.29:741][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.17-13.44.29:741][  0]MemoryProfiler: Initialize
+[2021.11.17-13.44.29:741][  0]MemoryProfiler: OnSessionChanged
+[2021.11.17-13.44.29:745][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.11.17-13.44.29:745][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.11.17-13.44.29:913][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.17-13.44.29:913][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.17-13.44.30:084][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/' took 0.02s
+[2021.11.17-13.44.30:225][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.17-13.44.30:225][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.17-13.44.30:225][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.17-13.44.30:225][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.17-13.44.30:225][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.17-13.44.30:225][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.17-13.44.30:225][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.17-13.44.30:225][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.17-13.44.30:225][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.17-13.44.30:225][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.17-13.44.30:225][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.17-13.44.30:225][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.17-13.44.30:225][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.17-13.44.30:225][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.17-13.44.30:225][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.17-13.44.30:225][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.17-13.44.30:225][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.17-13.44.30:225][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.17-13.44.30:281][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.17-13.44.30:284][  0]SourceControl: Source control is disabled
+[2021.11.17-13.44.30:284][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.832
+[2021.11.17-13.44.30:284][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/StoryAdvTemplate/Maps/Showroom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.17-13.44.30:284][  0]LightingResults: New page: Lighting Build
+[2021.11.17-13.44.30:286][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-13.44.30:286][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-13.44.30:286][  0]MapCheck: New page: Map Check
+[2021.11.17-13.44.30:286][  0]LightingResults: New page: Lighting Build
+[2021.11.17-13.44.30:292][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.17-13.44.30:294][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.17-13.44.30:831][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\StoryAdvTemplate\UserInterface\Menu\UI_Journal.uasset: [Compiler] On Clicked (CloseButton)  does not have a valid matching component!
+[2021.11.17-13.44.32:061][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Showroom'.
+[2021.11.17-13.44.32:062][  0]LogAIModule: Creating AISystem for world Showroom
+[2021.11.17-13.44.32:137][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/StoryAdvTemplate/Maps/Sublevels/Example_Sublevel_A) is flushing async loading
+[2021.11.17-13.44.32:137][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.11.17-13.44.32:145][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/StoryAdvTemplate/Maps/MenuScene) is flushing async loading
+[2021.11.17-13.44.32:170][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/StoryAdvTemplate/Maps/Sublevels/Example_Sublevel_B) is flushing async loading
+[2021.11.17-13.44.32:180][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/StoryAdvTemplate/Maps/Sublevels/Example_Sublevel_C) is flushing async loading
+[2021.11.17-13.44.32:193][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.17-13.44.32:223][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.11.17-13.44.32:223][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.17-13.44.32:224][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,514ms to complete.
+[2021.11.17-13.44.32:224][  0]LogFileHelpers: Loading map 'Showroom' took 1.940
+[2021.11.17-13.44.32:226][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.774
+[2021.11.17-13.44.32:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-13.44.32:359][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-13.44.32:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-13.44.32:370][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.17-13.44.32:383][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3994 classes and 966 folders.
+[2021.11.17-13.44.32:385][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.17-13.44.32:386][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.17-13.44.32:386][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:386][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.17-13.44.32:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.17-13.44.32:386][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.17-13.44.32:387][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.17-13.44.32:387][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:387][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.17-13.44.32:387][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:387][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.17-13.44.32:387][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.11.17-13.44.32:388][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.17-13.44.32:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.17-13.44.32:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.17-13.44.32:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:388][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.17-13.44.32:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.17-13.44.32:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.17-13.44.32:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.17-13.44.32:389][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.17-13.44.32:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.17-13.44.32:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.17-13.44.32:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:389][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.17-13.44.32:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.17-13.44.32:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.17-13.44.32:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:390][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.17-13.44.32:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.17-13.44.32:390][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:390][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.17-13.44.32:390][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:390][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.17-13.44.32:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.17-13.44.32:390][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:390][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.17-13.44.32:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.17-13.44.32:391][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.17-13.44.32:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.17-13.44.32:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.17-13.44.32:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:392][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.17-13.44.32:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.17-13.44.32:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.17-13.44.32:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:392][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.17-13.44.32:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.17-13.44.32:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.17-13.44.32:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:393][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.17-13.44.32:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.17-13.44.32:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.17-13.44.32:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:393][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.17-13.44.32:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.17-13.44.32:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.17-13.44.32:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:394][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.17-13.44.32:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.17-13.44.32:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.17-13.44.32:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:395][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.17-13.44.32:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.17-13.44.32:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.17-13.44.32:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:395][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.17-13.44.32:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.17-13.44.32:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.17-13.44.32:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:396][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.17-13.44.32:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.17-13.44.32:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.17-13.44.32:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:396][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.17-13.44.32:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.17-13.44.32:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.17-13.44.32:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.11.17-13.44.32:397][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.17-13.44.32:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.17-13.44.32:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.17-13.44.32:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:398][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.17-13.44.32:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.17-13.44.32:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.17-13.44.32:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:398][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.17-13.44.32:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.17-13.44.32:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.17-13.44.32:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:399][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.17-13.44.32:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.17-13.44.32:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.17-13.44.32:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:399][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.17-13.44.32:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.17-13.44.32:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.17-13.44.32:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.17-13.44.32:400][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.17-13.44.32:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.17-13.44.32:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.17-13.44.32:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:401][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.17-13.44.32:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.17-13.44.32:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.17-13.44.32:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.17-13.44.32:401][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.17-13.44.32:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.17-13.44.32:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.17-13.44.32:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.17-13.44.32:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.17-13.44.32:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.17-13.44.32:447][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.17-13.44.32:449][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.11.17-13.44.32:494][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.17-13.44.32:495][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.17-13.44.32:496][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.17-13.44.32:583][  0]LogRenderer: Reallocating scene render targets to support 864x432 Format 10 NumSamples 1 (Frame:1).
+[2021.11.17-13.44.32:676][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.17-13.44.32:676][  0]LogLoad: (Engine Initialization) Total time: 9.22 seconds
+[2021.11.17-13.44.32:676][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.17-13.44.32:750][  0]LogAssetRegistry: Asset discovery search completed in 5.9815 seconds
+[2021.11.17-13.44.32:756][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.11.17-13.44.32:759][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.17-13.44.32:782][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/' took 0.08s
+[2021.11.17-13.44.32:817][  2]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.17-13.44.51:845][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.17-13.44.51:851][137]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.17-13.44.51:885][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_CardBoard.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:885][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_CardBoard.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:885][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_CardBoard.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:886][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_CardBoard.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:887][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_CardBoard.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:887][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_CardBoard.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:888][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_GlassBlack.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:888][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_GlassBlack.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:890][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_GlassBlack.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:890][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_GlassBlack.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:891][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_MetalBrown.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:891][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_MetalBrown.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:892][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_MetalBrown.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:892][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_MetalBrown.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:909][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_GlassBlack.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:909][137]LoadErrors: Failed to load /Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m.BathTub_r_ao_m Referenced by MI_GlassBlack
+[2021.11.17-13.44.51:909][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_GlassBlack.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:909][137]LoadErrors: Failed to load /Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal.T_Basenormal Referenced by MI_GlassBlack
+[2021.11.17-13.44.51:910][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_MetalBrown.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:910][137]LoadErrors: Failed to load /Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m.BathTub_r_ao_m Referenced by MI_MetalBrown
+[2021.11.17-13.44.51:911][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_MetalBrown.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:911][137]LoadErrors: Failed to load /Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal.T_Basenormal Referenced by MI_MetalBrown
+[2021.11.17-13.44.51:911][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_CardBoard.uasset: Failed to load '/Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m': Can't find file.
+[2021.11.17-13.44.51:911][137]LoadErrors: Failed to load /Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m.BathTub_r_ao_m Referenced by MI_CardBoard
+[2021.11.17-13.44.51:911][137]LogLinker: Warning: [AssetLog] C:\Users\Simen\Documents\NIKKO gitkraken\NikkoChap2\Content\Gruppe2\Materials\MI_CardBoard.uasset: Failed to load '/Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal': Can't find file.
+[2021.11.17-13.44.51:912][137]LoadErrors: Failed to load /Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal.T_Basenormal Referenced by MI_CardBoard
+[2021.11.17-13.44.51:939][137]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Gruppe2/Levels/Prototype/Chap2_MotherLevel.Chap2_MotherLevel
+[2021.11.17-13.44.51:939][137]Cmd: MAP LOAD FILE="../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/Gruppe2/Levels/Prototype/Chap2_MotherLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.17-13.44.51:939][137]LightingResults: New page: Lighting Build
+[2021.11.17-13.44.51:939][137]LoadErrors: New page: Loading map: Chap2_MotherLevel.umap
+[2021.11.17-13.44.51:948][137]LogWorld: UWorld::CleanupWorld for Showroom, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-13.44.51:948][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-13.44.51:948][137]LogWorld: UWorld::CleanupWorld for Example_Sublevel_A, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-13.44.51:948][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-13.44.51:948][137]LogWorld: UWorld::CleanupWorld for MenuScene, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-13.44.51:948][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-13.44.51:948][137]LogWorld: UWorld::CleanupWorld for Example_Sublevel_B, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-13.44.51:948][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-13.44.51:948][137]LogWorld: UWorld::CleanupWorld for Example_Sublevel_C, bSessionEnded=true, bCleanupResources=true
+[2021.11.17-13.44.51:948][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.17-13.44.51:948][137]MapCheck: New page: Map Check
+[2021.11.17-13.44.51:948][137]LightingResults: New page: Lighting Build
+[2021.11.17-13.44.51:955][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.17-13.44.51:965][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.11.17-13.44.51:965][137]LogAudio: Display: Audio Device (ID: 1) registered with world 'Chap2_MotherLevel'.
+[2021.11.17-13.44.51:984][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Gruppe2/Levels/Prototype/Chap2_Enviornment) is flushing async loading
+[2021.11.17-13.44.51:985][137]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.11.17-13.44.51:986][137]LogLinker: Warning: Asset '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.17-13.44.51:987][137]LogStreaming: Error: Couldn't find file for package /Script/Tether requested by async loading code. NameToLoad: /Script/Tether
+[2021.11.17-13.44.51:995][137]LogStreaming: Error: Couldn't find file for package /Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal requested by async loading code. NameToLoad: /Game/Asset_packs/Gruppe1/OldBrickHouse/Textures/Basemaps/T_Basenormal
+[2021.11.17-13.44.51:995][137]LogStreaming: Error: Couldn't find file for package /Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m requested by async loading code. NameToLoad: /Game/Asset_packs/Gruppe1/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor10
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor10.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor11
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor11.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor12
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor12.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor13
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor13.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor14
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor14.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor15
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor15.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor16
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor16.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor17
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor17.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor18
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor18.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor19
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor19.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor2
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor2.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor20_6
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor20_6.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor3
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor3.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor4
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor4.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor5
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor5.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor6
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor6.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor7
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor7.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor8
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor8.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor9
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor9.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CableInternalStaticMesh': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor_16
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor_16.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor10.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor11.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor12.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor13.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor14.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor15.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor16.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor17.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor18.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor19.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor2.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor20_6.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor3.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor4.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor5.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor6.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor7.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor8.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor9.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BodySetup_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor_16.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor10.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor11.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor12.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor13.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor14.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor15.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor16.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor17.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor18.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor19.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor2.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor20_6.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor3.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor4.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor5.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor6.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor7.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor8.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor9.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavCollision_0': StaticMesh /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor_16.CableInternalStaticMesh
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor10
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor11
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor12
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor13
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor14
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor15
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor16
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor17
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor18
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor19
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor2
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor20_6
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor3
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor4
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor5
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor6
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor7
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor8
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor9
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneRoot': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor_16
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor10
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor11
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor12
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor13
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor14
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor15
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor16
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor17
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor18
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor19
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor2
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor20_6
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor3
+[2021.11.17-13.44.52:063][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor4
+[2021.11.17-13.44.52:064][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor5
+[2021.11.17-13.44.52:064][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor6
+[2021.11.17-13.44.52:064][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor7
+[2021.11.17-13.44.52:064][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor8
+[2021.11.17-13.44.52:064][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor9
+[2021.11.17-13.44.52:064][137]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent': TetherCableActor /Game/Gruppe2/Levels/Prototype/Chap2_Enviornment.Chap2_Enviornment:PersistentLevel.TetherCableActor_16
+[2021.11.17-13.44.52:067][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Gruppe2/Levels/Prototype/Chap2_Light) is flushing async loading
+[2021.11.17-13.44.52:076][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Gruppe2/Levels/Prototype/Chap2_PawnShop) is flushing async loading
+[2021.11.17-13.44.52:485][137]LogStaticMesh: Warning: Mesh SM_RedRobe is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/HQ_ResidentialHouse/Meshes/SM_RedRobe.SM_RedRobe.
+[2021.11.17-13.44.52:829][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Gruppe2/Levels/Prototype/Chap2_Prototype) is flushing async loading
+[2021.11.17-13.44.52:899][137]LogStreaming: Error: Couldn't find file for package /Game/Medieval_Furniture/Materials/MI_Chairs_01 requested by async loading code. NameToLoad: /Game/Medieval_Furniture/Materials/MI_Chairs_01
+[2021.11.17-13.44.53:192][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Gruppe2/Levels/Prototype/Chap2_Cinematic_Level) is flushing async loading
+[2021.11.17-13.44.53:367][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Gruppe2/Levels/Prototype/Chap2_Decal) is flushing async loading
+[2021.11.17-13.44.53:454][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Gruppe2/Levels/Prototype/Chap2_Dirt) is flushing async loading
+[2021.11.17-13.44.53:479][137]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Gruppe2/Levels/Prototype/Chap2_Signs) is flushing async loading
+[2021.11.17-13.44.53:512][137]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.17-13.44.53:512][137]LogAIModule: Creating AISystem for world Chap2_MotherLevel
+[2021.11.17-13.44.53:566][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.11.17-13.44.53:586][137]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_PawnShop' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Prototype' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Light' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Light' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_MotherLevel' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Prototype' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_PawnShop' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Light' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Enviornment' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Dirt' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Enviornment' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Light' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_PawnShop' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Prototype' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Signs' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Decal' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Enviornment' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Light' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_PawnShop' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Prototype' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Signs' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Light' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Prototype' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_PawnShop' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Dirt' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Enviornment' which isn't loaded.
+[2021.11.17-13.44.53:586][137]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Gruppe2/Levels/Prototype/Chap2_Decal' which isn't loaded.
+[2021.11.17-13.44.53:587][137]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,157ms to complete.
+[2021.11.17-13.44.53:587][137]LogFileHelpers: Loading map 'Chap2_MotherLevel' took 1.647
+[2021.11.17-13.44.53:631][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.17-13.44.53:643][137]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.17-13.44.55:457][238]LogSlate: Window 'Message Log' being destroyed
+[2021.11.17-13.44.55:463][238]LogSlate: Window 'Message Log' being destroyed
+[2021.11.17-13.45.00:254][523]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Gruppe2/Cinematics/Robot_grabs_Frode.Robot_grabs_Frode
+[2021.11.17-13.45.02:900][672]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.17-13.45.13:289][292]LogSlate: Took 0.006382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.17-13.45.16:147][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (futureslums_S_Facade_15)
+[2021.11.17-13.46.00:659][  0]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.17-13.47.11:027][212]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave sfx_Marketplace_mechanical_robot_03...
+[2021.11.17-13.47.11:027][212]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_03.sfx_Marketplace_mechanical_robot_03 will be modified from 40 to 40.
+[2021.11.17-13.47.11:116][212]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1020644 while cooking SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_03.sfx_Marketplace_mechanical_robot_03.
+[2021.11.17-13.47.12:917][319]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave sfx_Marketplace_mechanical_robot_01...
+[2021.11.17-13.47.12:918][319]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_01.sfx_Marketplace_mechanical_robot_01 will be modified from 40 to 40.
+[2021.11.17-13.47.13:024][319]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1371488 while cooking SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_01.sfx_Marketplace_mechanical_robot_01.
+[2021.11.17-13.47.57:857][997]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Gruppe2/Sounds/AMBX/ambx_MakedPlace_MopedSound.ambx_MakedPlace_MopedSound
+[2021.11.17-13.48.12:821][886]LogSavePackage: Moving '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/ambx_MakedPlace_MopedSoundE6C599644B7D0D7A83C5DCB10CF7D391.tmp' to '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/Gruppe2/Sounds/AMBX/ambx_MakedPlace_MopedSound.uasset'
+[2021.11.17-13.48.12:839][886]AssetCheck: New page: Asset Save: ambx_MakedPlace_MopedSound
+[2021.11.17-13.48.12:839][886]LogContentValidation: Display: Validating SoundWave /Game/Gruppe2/Sounds/AMBX/ambx_MakedPlace_MopedSound.ambx_MakedPlace_MopedSound
+[2021.11.17-13.48.13:900][949]LogSlate: Window 'ambx_MakedPlace_MopedSound' being destroyed
+[2021.11.17-13.48.13:906][949]LogSlate: Window 'ambx_MakedPlace_MopedSound' being destroyed
+[2021.11.17-13.48.47:602][964]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave sfx_Marketplace_mechanical_robot_02...
+[2021.11.17-13.48.47:603][964]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_02.sfx_Marketplace_mechanical_robot_02 will be modified from 40 to 40.
+[2021.11.17-13.48.47:719][964]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1476392 while cooking SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_02.sfx_Marketplace_mechanical_robot_02.
+[2021.11.17-13.50.49:737][278]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave sfx_Marketplace_mechanical_robot_04...
+[2021.11.17-13.50.49:737][278]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_04.sfx_Marketplace_mechanical_robot_04 will be modified from 40 to 40.
+[2021.11.17-13.50.49:799][278]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 693180 while cooking SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_04.sfx_Marketplace_mechanical_robot_04.
+[2021.11.17-13.54.52:287][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.11.17-13.54.52:289][838]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Gruppe2/Levels/Prototype/Chap2_MotherLevel' took 0.014
+[2021.11.17-13.54.52:290][838]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Gruppe2/Cinematics/Robot_grabs_Frode] ([2] browsable assets)...
+[2021.11.17-13.54.52:290][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gruppe2/Cinematics/Robot_grabs_Frode]
+[2021.11.17-13.54.52:309][838]LogSavePackage: Moving '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Robot_grabs_Frode_Auto1C3781AFB4824F053820F118A47E76C17.tmp' to '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Autosaves/Game/Gruppe2/Cinematics/Robot_grabs_Frode_Auto1.uasset'
+[2021.11.17-13.54.52:310][838]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.11.17-13.58.53:705][307]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.17-13.58.53:717][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.17-13.58.53:717][307]PIE: New page: PIE session: Chap2_MotherLevel (17. nov. 2021, 15:58:53)
+[2021.11.17-13.58.53:719][307]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.17-13.58.53:720][307]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.17-13.58.53:720][307]LogPlayLevel: Creating play world package: /Game/Gruppe2/Levels/Prototype/UEDPIE_0_Chap2_MotherLevel
+[2021.11.17-13.58.53:730][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010239s)
+[2021.11.17-13.58.53:731][307]LogAIModule: Creating AISystem for world Chap2_MotherLevel
+[2021.11.17-13.58.53:731][307]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2021.11.17-13.58.53:731][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Gruppe2/Levels/Prototype/Chap2_MotherLevel.Chap2_MotherLevel to /Game/Gruppe2/Levels/Prototype/UEDPIE_0_Chap2_MotherLevel.Chap2_MotherLevel (0.011350s)
+[2021.11.17-13.58.53:740][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.11.17-13.58.53:741][307]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.17-13.58.53:742][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.17-13.58.53:742][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.17-13.58.53:742][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.17-13.58.53:742][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.17-13.58.53:742][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.17-13.58.53:742][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.17-13.58.53:742][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.17-13.58.53:742][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.17-13.58.53:742][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.17-13.58.53:742][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.17-13.58.53:742][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.17-13.58.53:742][307]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.17-13.58.53:746][307]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.17-13.58.53:746][307]LogAudioMixer: Display: 1: FrontRight
+[2021.11.17-13.58.53:754][307]LogAudioMixer: Display: Using Audio Device Hodetelefoner (Simens AirPods Pro Stereo)
+[2021.11.17-13.58.53:754][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.17-13.58.53:754][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.17-13.58.53:754][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.17-13.58.53:754][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.17-13.58.53:754][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.17-13.58.53:754][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.17-13.58.53:755][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.17-13.58.53:755][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.17-13.58.53:755][307]LogInit: FAudioDevice initialized.
+[2021.11.17-13.58.53:755][307]LogAudio: Display: Audio Device (ID: 2) registered with world 'Chap2_MotherLevel'.
+[2021.11.17-13.58.53:765][307]LogLoad: Game class is 'BP_StoryAdventureGameMode_C'
+[2021.11.17-13.58.53:977][307]LogWorld: Bringing World /Game/Gruppe2/Levels/Prototype/UEDPIE_0_Chap2_MotherLevel.Chap2_MotherLevel up for play (max tick rate 60) at 2021.11.17-14.58.53
+[2021.11.17-13.58.53:978][307]LogWorld: Bringing up level for play took: 0.004469
+[2021.11.17-13.58.53:978][307]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.11.17-13.58.53:981][307]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.17-13.58.53:984][307]PIE: Server logged in
+[2021.11.17-13.58.53:986][307]PIE: Play in editor total start time 0,27 seconds.
+[2021.11.17-13.58.55:994][424]LogBlueprintUserMessages: [Blueprint_Trigger_Audio_2] Playing SOund
+[2021.11.17-14.00.01:461][447]LogSavePackage: Moving '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/Robot_grabs_FrodeD49BEF114D37993EE654419C616BE5AE.tmp' to '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/Gruppe2/Cinematics/Robot_grabs_Frode.uasset'
+[2021.11.17-14.00.01:467][447]AssetCheck: New page: Asset Save: Robot_grabs_Frode
+[2021.11.17-14.00.01:467][447]LogContentValidation: Display: Validating LevelSequence /Game/Gruppe2/Cinematics/Robot_grabs_Frode.Robot_grabs_Frode
+[2021.11.17-14.00.57:880][815]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Gruppe2/Sounds/AMBX/ambx_MakedPlace_MopedSound.ambx_MakedPlace_MopedSound
+[2021.11.17-14.01.07:484][385]LogSlate: Window 'ambx_MakedPlace_MopedSound' being destroyed
+[2021.11.17-14.01.07:489][385]LogSlate: Window 'ambx_MakedPlace_MopedSound' being destroyed
+[2021.11.17-14.01.38:694][251]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Gruppe2/Sounds/AMBX/ambx_MakedPlace_MopedSound.ambx_MakedPlace_MopedSound
+[2021.11.17-14.01.41:091][390]Cmd: TRANSACTION UNDO
+[2021.11.17-14.01.41:091][390]LogEditorTransaction: Undo Edit Pitch
+[2021.11.17-14.01.55:178][226]LogSlate: Window 'ambx_MakedPlace_MopedSound' being destroyed
+[2021.11.17-14.01.55:183][226]LogSlate: Window 'ambx_MakedPlace_MopedSound' being destroyed
+[2021.11.17-14.02.02:289][649]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_02.sfx_Marketplace_mechanical_robot_02
+[2021.11.17-14.02.06:837][916]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_03.sfx_Marketplace_mechanical_robot_03
+[2021.11.17-14.02.10:764][149]LogSlate: Window 'sfx_Marketplace_mechanical_robot_03' being destroyed
+[2021.11.17-14.02.10:769][149]LogSlate: Window 'sfx_Marketplace_mechanical_robot_03' being destroyed
+[2021.11.17-14.02.11:611][198]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_04.sfx_Marketplace_mechanical_robot_04
+[2021.11.17-14.02.15:318][416]LogSlate: Window 'sfx_Marketplace_mechanical_robot_04' being destroyed
+[2021.11.17-14.02.15:324][416]LogSlate: Window 'sfx_Marketplace_mechanical_robot_04' being destroyed
+[2021.11.17-14.03.02:666][251]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_04.sfx_Marketplace_mechanical_robot_04
+[2021.11.17-14.03.04:102][330]LogSavePackage: Moving '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/sfx_Marketplace_mechanical_robot80EF1B4B4EAC13FCF1E85DA9B3010E70.tmp' to '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_04.uasset'
+[2021.11.17-14.03.04:107][330]AssetCheck: New page: Asset Save: sfx_Marketplace_mechanical_robot_04
+[2021.11.17-14.03.04:107][330]LogContentValidation: Display: Validating SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_04.sfx_Marketplace_mechanical_robot_04
+[2021.11.17-14.03.05:507][414]LogSlate: Window 'sfx_Marketplace_mechanical_robot_04' being destroyed
+[2021.11.17-14.03.05:513][414]LogSlate: Window 'sfx_Marketplace_mechanical_robot_04' being destroyed
+[2021.11.17-14.03.06:509][472]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_03.sfx_Marketplace_mechanical_robot_03
+[2021.11.17-14.03.07:414][521]LogSavePackage: Moving '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Saved/sfx_Marketplace_mechanical_robotAB0BA0AA49668ED4D2C2E193537BFC32.tmp' to '../../../../../../Users/Simen/Documents/NIKKO gitkraken/NikkoChap2/Content/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_03.uasset'
+[2021.11.17-14.03.07:418][521]AssetCheck: New page: Asset Save: sfx_Marketplace_mechanical_robot_03
+[2021.11.17-14.03.07:418][521]LogContentValidation: Display: Validating SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_03.sfx_Marketplace_mechanical_robot_03
+[2021.11.17-14.03.08:403][579]LogSlate: Window 'sfx_Marketplace_mechanical_robot_03' being destroyed
+[2021.11.17-14.03.08:409][579]LogSlate: Window 'sfx_Marketplace_mechanical_robot_03' being destroyed
+[2021.11.17-14.03.09:665][653]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Gruppe2/Sounds/SFX/sfx_Marketplace_mechanical_robot_02.sfx_Marketplace_mechanical_robot_02
+[2021.11.17-14.03.09:750][654]LogRHI: Error: Present Fail Count 1
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SyncInterval 0
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1582
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.BufferDesc.Height 879
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002B0C18
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.11.17-14.03.09:750][654]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.11.17-14.03.09:750][654]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11UniformBuffer.cpp:150 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.11.17-14.03.09:750][654]LogD3D11RHI: [Aftermath] GDynamicRHI=00000236C2638EC0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.11.17-14.03.09:750][654]LogWindows: Windows GetLastError: Operasjonen er utført. (0)
+[2021.11.17-14.03.11:637][654]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.11.17-14.03.11:637][654]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2021.11.17-14.03.11:637][654]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.11.17-14.03.11:637][654]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.11.17-14.03.11:637][654]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2021.11.17-14.03.11:637][654]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.11.17-14.03.11:640][654]Log file closed, 11/17/21 15:03:11
